@@ -72,6 +72,6 @@ otherwise
 
 ### 🌶 Switch Case
 
-Using a switch statments, create a calculater with ("+","-","/","*") and variables (x,y). 
+Using a switch statments, create a calculater with ("+","-","/","*") and variables (x,y,operation). 
 
 
