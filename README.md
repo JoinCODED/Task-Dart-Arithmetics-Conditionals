@@ -67,10 +67,11 @@ if i is divisible by 5
 otherwise
     print i
 ```
+💡Hint: you'll need to use the integer modulo operator `%`.
+
 
 ### 🌶 Switch Case
 
 Using a switch statments, create a calculater with ("+","-","%","*") and variables (x,y). 
 
 
-💡Hint: you'll need to use the integer modulo operator `%`.
