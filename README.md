@@ -6,13 +6,13 @@ Given the variable:
 double tempInFahrenheit = 86;
 ```
 
-Using dart arithmetics convert the temperature to `Celsius`, using this formula:
+Using dart arithmetics, convert the temperature to `Celsius`, using this formula:
 
 ```
 Fahrenheit to Celsius:   (°F − 32) / 1.8 = °C
 ```
 
-Print the result as following:
+Print the result like the following:
 
 ```
 86F = 30C
@@ -20,9 +20,9 @@ Print the result as following:
 
 ### 🤼‍♂️ Floats Methods
 
-Read those [docs](https://api.dart.dev/stable/2.16.1/dart-core/num/toStringAsFixed.html).
+Read these [docs](https://api.dart.dev/stable/2.16.1/dart-core/num/toStringAsFixed.html).
 
-In your output show at most 1 fractional digit
+In your output, show at most 1 fractional digit.
 
 ### 🌶 Vice Versa
 
@@ -36,7 +36,7 @@ Celsius to Fahrenheit: °C * 1.8000 + 32.00 = °F
 
 Define an integer variable called `mark`.
 
-Then print different results depending on these conditions:
+Then, print different results depending on the following conditions:
 
 ```
 if `mark` is more than or equal to 80
@@ -51,7 +51,7 @@ otherwise
     print F
 ```
 
-Then verify that the code works correctly for different values of `mark`.
+Finally, verify that the code works correctly for different values of the `mark` variable.
 
 ### 🤼‍♂️ More Practice: FizzBuzz
 
@@ -71,7 +71,6 @@ otherwise
 
 
 ### 🌶 Switch Case
-
-Using a switch statments, create a calculater with ("+","-","/","*") and variables (x,y,operation). 
+Using `switch` statements, create a calculator with the following operations: ("+","-","/","*") and the following variables (x,y,operation). Print the result of each operation that was applied on y and x.
 
 
