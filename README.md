@@ -1,3 +1,7 @@
+### Setup
+1. Fork and clone [this repo](https://github.com/JoinCODED/Task-Dart-Arithmetics-Conditionals).
+2. Write your code in `main.dart`.
+
 ### 🍋 Arithmetics ✖️➖➗
 
 Given the variable:
